@@ -9,3 +9,7 @@ c="string" #string
 d=True # bool
 e=None #none
 print(a,"=",type(a),b,"=",type(b),c,"=",type(c),d,"=",type(d),e,"=",type(e))
+#rules of the varibles
+aa=2 #allowed
+_a=3 #allowed
+#@sa is not allowed @ is not allowed
