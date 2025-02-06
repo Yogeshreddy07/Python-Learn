@@ -18,7 +18,7 @@ print(num) #[0, 1, 2, 2, 3, 4, 67]
 #sort function used to arrange in dec order
 num.sort(reverse=True)
 print(num)  #[67, 4, 3, 2, 2, 1, 0]
-#type 2
+#this function will reverse the order
 num1.reverse()
 print(num)
 
