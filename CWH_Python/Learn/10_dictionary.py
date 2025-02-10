@@ -5,6 +5,7 @@ dic={
     "rfed":84,
     "ffdd":54
 }
+dic1={} #Empty Dictionary
 
 print(type(dic)) #<class 'dict'>
 
