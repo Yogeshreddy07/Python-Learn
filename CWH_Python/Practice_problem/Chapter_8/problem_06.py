@@ -1,5 +1,5 @@
 #Write a python function which converts inches to cms. 
 def cm(inc):
-    cm=inc*2.5
+    cm=inc*2.54
     return cm
-print(cm(31))
+print(cm(7))
